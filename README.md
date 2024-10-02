@@ -68,6 +68,7 @@ For any questions or inquiries, please reach out to [bhanubiswas98@gmail.com].
 
 ```
 
+
 ### Instructions
 - Replace `auto_clicker.py` with the actual filename of your script.
 - Update the contact email with your own.
