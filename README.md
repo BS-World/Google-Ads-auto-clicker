@@ -1,5 +1,3 @@
-
-```markdown
 # Google Ads Auto Clicker
 
 ## Overview
@@ -24,7 +22,6 @@ The Google Ads Auto Clicker is a Python script that automates browsing and inter
    ```bash
    git clone https://github.com/BS-World/Google-Ads-auto-clicker.git
    cd Google-Ads-auto-clicker
-   ```
 
 2. **Install Dependencies**:
    You need to install the required packages. It’s recommended to use a virtual environment. 
